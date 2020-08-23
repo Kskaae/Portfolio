@@ -15,8 +15,8 @@ I don’t consider this assignment “complete” however  I am gaining confiden
 As a project, I look forward to the opportunity to revisit this assignment and continue to add to it as I gain more knowledge and skill with coding. At this point in time, this is my first ever coding experience and I find myself becoming slightly obsessed with it.  For me, obsession is a requirement to achieve goals, especially difficult goals. I look forward to the next step on the road to success.
 
 Special thanks to :
-Anthony Demott -TA 
-David Lovett 
-John Hernandez
-Joseph Jepson 
+Anthony Demott -TA, 
+David Lovett, 
+John Hernandez,
+Joseph Jepson, 
 Brandon Burrus -TA
