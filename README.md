@@ -1,4 +1,4 @@
-ubmission for Week 2 : Homework: Portfolio 
+Submission for Week 2 : Homework: Portfolio 
 
 My goals included:
 
