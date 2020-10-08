@@ -1,8 +1,8 @@
 body {
-  background-color:rgb(27, 26, 26);
+  background-color:rgb(42, 39, 39);
   }
   h2 {
-    color: black;
+    color: rgb(51, 48, 48);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   p {
@@ -11,36 +11,38 @@ body {
   }
 
 .information {
-  color: black;
+  color: rgb(42, 39, 39);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
  
-}
-.flex-container {
-  display: flex;
-  flex-direction: column-reverse;
 }
 
   h3 {
       color:rgb(27, 26, 26);
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    }
+      font-family: fantasy
  
    footer {
-     background-color:rgb(27, 26, 26);
+     background-color:rgb(29, 27, 27);
    }
    .flex-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
   
   h6 {
     background-position: left;
     color: black;
   }
-
-
-
-
+.flex-container{
+  background-color: brown;
 }
 
+h2{
+  font-family: fantasy;
+}
+h4 {
+  font-family: fantasy;
+}
+h1{
+  font-family: fantasy;
+}
    
